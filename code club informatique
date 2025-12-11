@@ -1,0 +1,7 @@
+#code pour le club informatique 
+
+#exo 1 prologo, tentative de le faire sur python 
+
+from aspose.svg import SVGDocument  
+
+document = SVGDocument("exoprolo.svg")
